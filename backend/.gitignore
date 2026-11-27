@@ -1,0 +1,17 @@
+# Python virtual environments
+new/
+shop/Include/
+shop/Lib/
+shop/Scripts/
+shop/pyvenv.cfg
+
+# Environment variables
+.env
+shop/.env
+
+# Django
+__pycache__/
+*.py[cod]
+db.sqlite3
+staticfiles/
+media/
