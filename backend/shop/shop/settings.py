@@ -46,7 +46,8 @@ INSTALLED_APPS = [
     #Third paarty apps
     'rest_framework',
      'corsheaders',
-     'payments'
+     'payments',
+     'products'
 ]
 
 MIDDLEWARE = [
